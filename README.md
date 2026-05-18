@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Naveen Ranasinghe
 - 🌐 IoT | 🔒 Cybersecurity | ☁️ Cloud | 🏭 Industrial Automation Enthusiast
-- 🌱 Undergraduate at the University of Colombo
-- 💞️ Looking to collaborate on GNU projects
 
 ---
 
